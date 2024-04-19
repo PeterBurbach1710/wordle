@@ -1,6 +1,6 @@
 This was an exercise as part of the "Joy of React" Course by Josh W Comeau.
 
-You can test the game at:
+You can test the game at: wordle-ashy-nu.vercel.app
 
 
 # Word Game
